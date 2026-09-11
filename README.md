@@ -40,7 +40,7 @@ Sou estudante do setor de tecnologia com os estudos iniciados para me tornar um 
 - GitHub:
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
-<p align='center'>
+
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -49,7 +49,6 @@ Sou estudante do setor de tecnologia com os estudos iniciados para me tornar um 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-</p>
 
 <br>
 
