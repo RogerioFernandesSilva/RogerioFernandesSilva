@@ -1,50 +1,55 @@
-<h1>Oi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  height="40">, Eu sou Rogério Fernandes </h1>
+# Olá, eu sou Rogério Fernandes 👋
 
-<h3>Um estudante de Desenvolvimento Full Stack Apaixonado pelo aprendizado 
-</p>
+**Desenvolvedor Full Stack Python em formação** com o objetivo de atuar como full stack com Python/Django.
 
-Olá, eu sou Rogério Fernandes
-Desenvolvedor Full Stack em formação, com foco na construção de aplicações web completas, APIs REST e integração com bancos de dados.
+Construo aplicações web completas, consumindo APIs REST e integrando com bancos de dados. Estou em busca da minha primeira oportunidade na área.
 
-Sou estudante do setor de tecnologia com os estudos iniciados para me tornar um Desenvolvedor Web Full Stack Python. Inicialmente tenho a pretensão de atuar no front end e seguir estudando para me tornar full stack ao longo da jornada.
+📍 Caçu, Goiás, Brasil
 
-## Sobre mim
+---
 
-* Estou aprendendo HTML5, CSS, JavaScript, Algoritmos, React Js, Node Js, Banco de dados SQL, Bootstrap e Python.
-* Minha linguagem de programação favorita no momento é o React Js.
-* Curso Profissão: Desenvolvedor Full Stack Python na EBAC.
-* ⚡ Hobbies: Marcenaria artesanal, leitura de e-books sobre tecnologia, navegação com barcos em rios e som automotivo.
+## 🛠️ Tecnologias
 
-## Projetos em destaque
+**Uso nos meus projetos:**
 
-
-
-## Projetos comerciais
-
-
-
-## Contato
-
-- 📫 E-mail: **rogrio.fernandesdasilva@gmail.com**
-- LinkedIn:
-- GitHub:
-
-<h3 align="left">Linguagens e Ferramentas:</h3>
-
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<br>
+**Estudando atualmente:**
 
-© 2023 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+---
+
+## 🚀 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [NOME DO PROJETO 1](LINK-DO-REPOSITORIO) | [Uma frase sobre o que faz] | Python, Django, PostgreSQL |
+| [NOME DO PROJETO 2](LINK-DO-REPOSITORIO) | [Uma frase sobre o que faz] | React, JavaScript |
+| [Agenda Telefônica](https://github.com/RogerioFernandesSilva/Exercicio-Modulo-8-JS) | Agenda de contatos com manipulação do DOM | HTML, CSS, JavaScript |
+| [Validador de Formulário](https://github.com/RogerioFernandesSilva/Exercicio-Modulo-7-JS) | Formulário com validação de campos | HTML, CSS, JavaScript |
+
+---
+
+## 📚 Formação
+
+- **Profissão: Desenvolvedor Full Stack Python**, EBAC (em andamento / concluído em [ANO])
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: [https://www.linkedin.com/in/SEU-PERFIL](https://www.linkedin.com/in/SEU-PERFIL)
+- ✉️ E-mail: [SEU-EMAIL-AQUI]
+- 🌐 Portfólio: [LINK, se tiver]
+
+---
+
+⚒️ Fora do código: marcenaria artesanal, leitura sobre tecnologia, navegação em rios e som automotivo.
